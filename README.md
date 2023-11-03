@@ -46,3 +46,5 @@
 
 ![Daily Report](https://github.com/IsFloros/ProiectTM-Jira/blob/main/zephyr.PNG)
 
+Link catre fisier [Test Case](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
+

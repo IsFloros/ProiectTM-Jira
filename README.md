@@ -41,10 +41,23 @@
 - All the features of Admin module which were defined in OrangeHRM business requirements will be tested using the following testing types: functional testing, GUI testing, API testing. 
 - The OrangeHRM Web application will be tested on latest versions of Mozilla, Chrome, IE.
 
+  ### 3.4 Daily test summary report
+Raportul generat in data x arata rularea a 20 de test case-uri dintre care 5 failed.
+![Daily report](https://github.com/RobertFurtuna10/TMTA12/blob/main/daily%20report.PNG)
+![Daily report](https://github.com/RobertFurtuna10/TMTA12/blob/main/Capture.PNG)
+
+
 ###   Daily test summary report
 - report generated on 10.03.2023 shows 20 test out of which 5 are failed
 
 ![Daily Report](https://github.com/IsFloros/ProiectTM-Jira/blob/main/zephyr.PNG)
 
+###  Test cases
 Link catre fisier [Test Cases](https://github.com/IsFloros/ProiectTM-Jira/blob/main/PDF%20(Jira)%20(1).pdf)
+
+### 3.6 Test case results
+[TES-47 sau Testcase results](https://github.com/RobertFurtuna10/TMTA12/blob/main/TES-47.pdf)
+
+### 3.8 Test completion report
+![Test completion report](https://github.com/RobertFurtuna10/TMTA12/blob/main/test%20execution.PNG)
 

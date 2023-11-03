@@ -44,3 +44,5 @@
 ###   Daily test summary report
 - report generated on 10.03.2023 shows 20 test out of which 5 are failed
 
+![Daily Report](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
+

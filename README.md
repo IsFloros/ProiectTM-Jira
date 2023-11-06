@@ -24,7 +24,7 @@
             
             1.2 Functionalities in scope
 
-1. Introduction
+#1. Introduction
    1. Project objective
    2. Functionalities in scope
    3. Functionalities and tests out of scope
